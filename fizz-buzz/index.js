@@ -13,8 +13,8 @@
 // Input: n = 5
 // Output: ["1","2","Fizz","4","Buzz"]
 
-let outputArray = [];
 var fizzBuzz = function (n) {
+  let outputArray = [];
   for (i = 1; i <= n; i++) {
     if ((i % 3 === 0) & (i % 5 === 0)) {
       // Checks if divisible by both to output 'FizzBuzz'
