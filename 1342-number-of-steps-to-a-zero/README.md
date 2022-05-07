@@ -1,7 +1,7 @@
 Found this one really easy, took maybe 5 mins or less.
 However, my memory usage was super high for this one, need to find out how to use less memory for this problem.
-Runtime: 70 ms, faster than 64.69% of submissions
-Memory Usage: 42.3 MB, less than 18.25% of submissions
+Runtime: 70 ms, faster than 64.69% of submissions <br />
+Memory Usage: 42.3 MB, less than 18.25% of submissions <br />
 
 # Problem
 

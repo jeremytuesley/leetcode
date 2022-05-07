@@ -1,7 +1,7 @@
 One of my first leetcode problems. Fairly easy, but I didn't end up using any of the newer array methods, so I think that lead to my runtime and memory usage being pretty poor.
 
-Runtime: 97 ms, faster than 21.25% of submissions
-Memory Usage: 44.4 MB, less than 18.25% of submissions
+Runtime: 97 ms, faster than 21.25% of submissions <br />
+Memory Usage: 44.4 MB, less than 18.25% of submissions <br />
 
 # Problem
 

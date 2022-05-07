@@ -1,7 +1,7 @@
 Found this one was really easy. Ended up with above 50% better submission, but I can do some research to achieve 70%+ atleast probably.
 
-Runtime: 84 ms, faster than 57.26% of submissions
-Memory Usage: 44.3 MB, less than 54.40% of submissions
+Runtime: 84 ms, faster than 57.26% of submissions <br />
+Memory Usage: 44.3 MB, less than 54.40% of submissions <br />
 
 # PROBLEM
 
