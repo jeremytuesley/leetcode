@@ -1,7 +1,7 @@
 Found this kinda hard, but achieved, got first submission wrong as I found out
 .sort() sorts alphabetically but not numerically, so cases where I had 10, 11, 12 etc came before 2, 3, 4. leading to a wrong answer. Fixed by writing a numerical sort function in there.
-Happy with runtimes/ memory usage
-Runtime: 78 ms, faster than 68.07% of submissions <br />
+Happy with <br /> Runtimes/ memory usage
+<br /> Runtime: 78 ms, faster than 68.07% of submissions <br />
 Memory Usage: 44.2 MB, less than 65.89% of submissions <br />
 
 # PROBLEM

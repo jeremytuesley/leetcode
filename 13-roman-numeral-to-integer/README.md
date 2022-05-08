@@ -1,7 +1,7 @@
 First leetcode problem attempted.
 While syntax was easy enough, wrapping my head around the logic was a little tough
 As I never really use roman numerals in the first place, found it pretty fun though
-Runtime: 204 ms, faster than 36.81% of submissions <br />
+<br /> Runtime: 204 ms, faster than 36.81% of submissions <br />
 Memory Usage: 46.9 MB, less than 73.69% of submissions <br />
 
 # PROBLEM

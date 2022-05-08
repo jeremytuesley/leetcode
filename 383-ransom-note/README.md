@@ -1,7 +1,7 @@
 Used a new function I hadn't heard of before (Map()).
-Fun learning it and had to read a bunch of syntax and mess around with it alot to get it to work, but it looks like it paid off as runtime and memory usage were pretty good for this one.
+Fun learning it and had to read a bunch of syntax and mess around with it alot to get it to work, but it looks like it paid off as <br /> Runtime and memory usage were pretty good for this one.
 
-Runtime: 90 ms, faster than 83.30% of submissions <br />
+<br /> Runtime: 90 ms, faster than 83.30% of submissions <br />
 Memory Usage: 44.3 MB, less than 82.88% of submissions <br />
 
 # PROBLEM
