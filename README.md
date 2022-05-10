@@ -16,6 +16,6 @@ Would be happy to hear from you! :)
 
 ## Study Plan
 
-Every 20 or so questions, I plan to go back to the question, not look at my code, and re-attempt the question to ensure I'm absorbing how to do it. I also hope to improve on my code, as I feel I'll be learning new ways to solve these problems with better efficiency. <br /> <br />
+Every 20 or so questions, I plan to go back to the first question of that set, not look at my code, and re-attempt the question to ensure I'm absorbing how to do it. I also hope to improve on my code, as I feel I'll be learning new ways to solve these problems with better efficiency. <br /> <br />
 
 Thanks for reading this far. Enjoy :grin:
