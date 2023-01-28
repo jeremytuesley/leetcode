@@ -6,7 +6,7 @@
 
 ## Why?
 
-I'm doing this for practice, to become a better software engineer and also because I'm finding them pretty fun. (Liked solving Math problems as well).
+I'm doing this for practice, to become a better software engineer and just for problem solving fun.
 <br /><br />
 If you find this cool, have any suggestions, or want to work with me, feel free to reach out to me! <br />
 You can find me on: <br />
